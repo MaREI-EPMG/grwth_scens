@@ -1,0 +1,18 @@
+{
+  "name": "esb-bau~0004",
+  "data": [
+    {
+      "seriesName": "INDOIL",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

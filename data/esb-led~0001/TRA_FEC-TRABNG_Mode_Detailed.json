@@ -1,0 +1,14 @@
+{
+  "name": "esb-led~0001",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-F-MTRUCK",
+      "seriesValues": [
+        [
+          2028,
+          0.0
+        ]
+      ]
+    }
+  ]
+}

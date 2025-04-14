@@ -1,0 +1,119 @@
+{
+  "name": "esb-bau~0004",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-P-BUS",
+      "seriesValues": [
+        [
+          2044,
+          0.0
+        ],
+        [
+          2045,
+          0.0
+        ],
+        [
+          2046,
+          0.0
+        ],
+        [
+          2047,
+          0.0
+        ],
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-CAR",
+      "seriesValues": [
+        [
+          2047,
+          0.0
+        ],
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-TAXI",
+      "seriesValues": [
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-F-LTRUCK",
+      "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-F-HTRUCK",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-F-MTRUCK",
+      "seriesValues": [
+        [
+          2051,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
