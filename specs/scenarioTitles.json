@@ -1,4 +1,10 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "esb-led~0001": "LED-1",
+  "esb-led~0002": "LED-2",
+  "esb-led~0003": "LED-3",
+  "esb-led~0004": "LED-4",
+  "esb-bau~0001": "BAU-1",
+  "esb-bau~0002": "BAU-2",
+  "esb-bau~0003": "BAU-3",
+  "esb-bau~0004": "BAU-4"
 }

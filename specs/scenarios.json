@@ -1,10 +1,34 @@
 [
   {
-    "name": "no_mitigation",
-    "variants": [{ "name": "no_mitigation", "specs": null }]
+    "name": "esb-bau~0001",
+    "variants": [{ "name": "esb-bau~0001", "specs": null }]
   },
   {
-    "name": "no_mitigation",
-    "variants": [{ "name": "no_mitigation", "specs": null }]
+    "name": "esb-bau~0002",
+    "variants": [{ "name": "esb-bau~0002", "specs": null }]
+  },
+  {
+    "name": "esb-bau~0003",
+    "variants": [{ "name": "esb-bau~0003", "specs": null }]
+  },
+  {
+    "name": "esb-bau~0004",
+    "variants": [{ "name": "esb-bau~0004", "specs": null }]
+  },
+  {
+    "name": "esb-led~0001",
+    "variants": [{ "name": "esb-led~0001", "specs": null }]
+  },
+  {
+    "name": "esb-led~0002",
+    "variants": [{ "name": "esb-led~0002", "specs": null }]
+  },
+  {
+    "name": "esb-led~0003",
+    "variants": [{ "name": "esb-led~0003", "specs": null }]
+  },
+  {
+    "name": "esb-led~0004",
+    "variants": [{ "name": "esb-led~0004", "specs": null }]
   }
 ]
