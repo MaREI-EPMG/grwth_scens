@@ -5,13 +5,59 @@ LED - Low energy demand scenario representing a lower growth scenario
 
 Scenario numbering represents different discount rates, namely:
 
-| Sector or subsector | 1 | 2 | 3 | 4 |
-|----------|----------|----------|----------|----------|
-| General | 7.5 | 15 | 7.5 | 15 |
-| Industry | 7.5 | 15 | 7.5 | 15 |
-| Households | 13.5 | 15 | 15 | 15 |
-| Power generation | 7.5 | 15 | 15 | 15 |
-| Freight transport | 9.5 | 15 | 7.5 | 15 |
-| Commercial services | 11 | 15 | 7.5 | 15 |
-
+<table>
+  <thead>
+    <tr>
+      <th>Sector or subsector</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>General</td>
+      <td>7.5</td>
+      <td>15</td>
+      <td>7.5</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Industry</td>
+      <td>7.5</td>
+      <td>15</td>
+      <td>7.5</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Households</td>
+      <td>13.5</td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Power generation</td>
+      <td>7.5</td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Freight transport</td>
+      <td>9.5</td>
+      <td>15</td>
+      <td>7.5</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Commercial services</td>
+      <td>11</td>
+      <td>15</td>
+      <td>7.5</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>
 
