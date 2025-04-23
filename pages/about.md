@@ -3,7 +3,8 @@
 BAU - business as usual growth scenario
 LED - Low energy demand scenario representing a lower growth scenario
 
-Scenario numbering represents different discount rates, namely:
+
+Scenario numbering represents carbon budget restriction (scenarios 1 and 2 include a 300 Mt CO2 carbon budget for the 2021-2050 period, scenarios 3 and 4 are without carbon budget restriction) and different discount rates, namely:
 
 <table>
   <thead>
