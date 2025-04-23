@@ -1,6 +1,7 @@
 # These scenarios represent tests with different growth rates and discount rates
 
 BAU - business as usual growth scenario
+
 LED - Low energy demand scenario representing a lower growth scenario
 
 
