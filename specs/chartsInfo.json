@@ -1850,6 +1850,20 @@
     ],
     "unit": "GW"
   },
+  "Storages_CAP": {
+    "seriesNames": [
+      "STR-PH",
+      "STR-H2",
+      "STR-BAT"
+    ],
+    "colorScale": [
+      "#009DDC",
+      "#F26430",
+      "#F99928"
+    ],
+    "unit": "GW"
+  },
+  
   "RSD_RTFT-APT_NCAP": {
     "seriesNames": [
       "R-RTFT-Apt_D",

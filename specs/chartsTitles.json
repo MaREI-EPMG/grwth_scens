@@ -39,6 +39,7 @@
 	"PWR_FuelPrice": "Fuel Price",
 	"PWR_Gen-ELCC": "Electricity Generation by PP",
 	"PWR_Gen-HETC": "Heat Generation by PP",
+	"Storages_CAP": "Energy Storages by type",
 	"RSD_BLD-N_TYPE": "New Dwellings by Type",
 	"RSD_BLD_TYPE": "Number of Dwellings by Type",
 	"RSD_CK_TYPE": "Cookers by Type",

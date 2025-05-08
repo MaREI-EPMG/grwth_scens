@@ -77,7 +77,8 @@
 			"PWR_Cap-N",
 			"PWR_Emissions-CO2",
 			"PWR_Gen-ELCC",
-			"PWR_Gen-HETC"
+			"PWR_Gen-HETC",
+			"Storages_CAP"
 		]
 	},
 	{
