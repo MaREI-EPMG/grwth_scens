@@ -5,7 +5,23 @@
       "seriesName": "DMD_TRA-F-MTRUCK",
       "seriesValues": [
         [
+          2024,
+          0.0
+        ],
+        [
+          2027,
+          0.0
+        ],
+        [
           2028,
+          0.0
+        ],
+        [
+          2029,
+          0.0
+        ],
+        [
+          2051,
           0.0
         ]
       ]
@@ -26,6 +42,10 @@
     {
       "seriesName": "DMD_TRA-P-BUS",
       "seriesValues": [
+        [
+          2044,
+          0.0
+        ],
         [
           2045,
           0.0
@@ -57,8 +77,33 @@
       ]
     },
     {
+      "seriesName": "DMD_TRA-F-LTRUCK",
+      "seriesValues": [
+        [
+          2048,
+          0.0
+        ],
+        [
+          2049,
+          0.0
+        ],
+        [
+          2050,
+          0.0
+        ],
+        [
+          2051,
+          0.0
+        ]
+      ]
+    },
+    {
       "seriesName": "DMD_TRA-P-CAR",
       "seriesValues": [
+        [
+          2048,
+          0.0
+        ],
         [
           2049,
           0.0
@@ -76,6 +121,10 @@
     {
       "seriesName": "DMD_TRA-P-TAXI",
       "seriesValues": [
+        [
+          2050,
+          0.0
+        ],
         [
           2051,
           0.0
