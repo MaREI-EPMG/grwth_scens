@@ -20,42 +20,42 @@ Scenario numbering represents carbon budget restriction (scenarios 1 and 2 inclu
   <tbody>
     <tr>
       <td>General</td>
-      <td>7.5</td>
+      <td>4</td>
       <td>15</td>
       <td>7.5</td>
       <td>15</td>
     </tr>
     <tr>
       <td>Industry</td>
-      <td>7.5</td>
+      <td>4</td>
       <td>15</td>
       <td>7.5</td>
       <td>15</td>
     </tr>
     <tr>
       <td>Households</td>
-      <td>13.5</td>
+      <td>4</td>
       <td>15</td>
       <td>15</td>
       <td>15</td>
     </tr>
     <tr>
       <td>Power generation</td>
-      <td>7.5</td>
+      <td>4</td>
       <td>15</td>
       <td>15</td>
       <td>15</td>
     </tr>
     <tr>
       <td>Freight transport</td>
-      <td>9.5</td>
+      <td>4</td>
       <td>15</td>
       <td>7.5</td>
       <td>15</td>
     </tr>
     <tr>
       <td>Commercial services</td>
-      <td>11</td>
+      <td>4</td>
       <td>15</td>
       <td>7.5</td>
       <td>15</td>
